@@ -51,4 +51,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: [fabuhd]/app:latest
+          tags: fabuhd/app:latest
